@@ -21,6 +21,9 @@ class MainActivity : ComponentActivity() {
         setContent {
                 Box(modifier = Modifier.background(Color.Yellow)){
                     Text("Hola mundo")
+                    Text("Hola mundo")
+                    Text("Hola mundo")
+                    Text("Hola mundo")
             }
         }
     }
